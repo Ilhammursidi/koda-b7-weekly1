@@ -9,4 +9,5 @@ function genMultiplicationTable(n) {
     }
 }
 
+
 genMultiplicationTable(5);
